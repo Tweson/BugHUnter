@@ -1,0 +1,1 @@
+csrf|s:64:"60b7b773d8b2931f2c4529a16ed2ba2621a29c46ed3769ace8a33b5baa3d6876";user|a:5:{s:2:"id";i:3;s:5:"login";s:11:"admin123123";s:9:"full_name";s:3:"123";s:13:"password_hash";s:60:"$2y$10$jv6Kc62/y5cFqg5HUPcF.e.18Wvrcxf2dg3IM/Yp1O2x31r7Qrfu.";s:4:"role";s:6:"tester";}
